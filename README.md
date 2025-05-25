@@ -19,7 +19,7 @@ To build a machine learning model that can classify restaurant reviews as positi
 
 **2. Text Preprocessing (NLP)**
    
-Performed standard NLP cleaning steps:
+- Performed standard NLP cleaning steps:
 
 **3. Feature Extraction**
    
