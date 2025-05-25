@@ -31,11 +31,11 @@ Performed standard NLP cleaning steps:
 
 •	Models tested:
 
-o	Naive Bayes
+  - Naive Bayes
 
-o	Logistic Regression
+  - Logistic Regression
 
-o	SVM (Support Vector Machine)
+  - SVM (Support Vector Machine)
 
 •	Evaluated using accuracy, precision, recall, and confusion matrix.
 
